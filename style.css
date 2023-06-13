@@ -2,8 +2,11 @@
 @import url(styles/header.css);
 @import url(styles/banner.css);
 @import url(styles/carrossel.css);
+@import url(styles/novidades.css);
+@import url(styles/footer.css);
 
 :root{
+    --margem-padrao: 1em;
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
     --laranja: #EB9B00;
